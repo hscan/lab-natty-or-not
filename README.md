@@ -13,3 +13,6 @@ Ela deverá posar olhando para a foto, foto esta que deverá contemplar o corpo 
 
 ## 🚀 Resultados
 Foto no projeto git.
+
+## 💭 Reflexão
+Meu erro aqui foi usar um ambiente com muitas placas, pois a IA ainda tem dificuldade com textos. Mas a foto ficou muito boa!
